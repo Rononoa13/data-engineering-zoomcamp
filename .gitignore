@@ -1,9 +1,33 @@
-# 2_docker_sql
+.DS_Store
 2_docker_sql/.ipynb_checkpoints
 2_docker_sql/env
+2_docker_sql/
+de-env
 2_docker_sql/taxi+_zone_lookup.csv
 2_docker_sql/ny_taxi_postgres_data
 2_docker_sql/output.csv.gz
 2_docker_sql/yellow_tripdata_2021-01.csv
 2_docker_sql/yellow_tripdata_2021-01.csv.gz
 2_docker_sql/yellow_tripdata_2021-01.parquet
+ny_taxi_postgres_data
+
+# ----- Terraform files and folders
+2_docker_sql/terraform-demo/.terraform.lock.hcl
+2_docker_sql/terraform-demo/keys
+2_docker_sql/terraform-demo/.terraform.tfstate.backup
+2_docker_sql/terraform-demo/terraform.tfstate
+2_docker_sql/terraform-demo/terraform.tfstate.backup
+# Mac
+green_tripdata_2019-09.csv
+green_tripdata_2019-09.csv.gz
+taxi+_zone_lookup.csv
+
+# ?Assibnments
+Assignment/Module1/.ipynb_checkpoints/
+Assignment/Module1/1_terraform_gcp/keys
+
+Assignment/Module1/1_terraform_gcp/terraform_basic/.terraform*
+Assignment/Module1/1_terraform_gcp/terraform_basic/terraform*
+
+Assignment/Module1/1_terraform_gcp/terraform_with_variables/.terraform*
+Assignment/Module1/1_terraform_gcp/terraform_with_variables/terraform*
